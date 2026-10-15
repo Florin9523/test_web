@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Page background: matches the bg colour token in calculator/index.html -->
+    <color name="bg">#FFE4E7EB</color>
+    <color name="ic_launcher_background">#FF1F4E5F</color>
+</resources>
