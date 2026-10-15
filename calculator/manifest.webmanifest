@@ -1,0 +1,17 @@
+{
+  "name": "Abac – Calculator clasic și științific",
+  "short_name": "Abac",
+  "description": "Calculator clasic și științific care funcționează și offline.",
+  "lang": "ro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12171D",
+  "theme_color": "#1F4E5F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
